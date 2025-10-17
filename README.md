@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content=
-  "width=device-width, initial-scale=1.0">
+  <"width=device-width, initial-scale=1.0">
   <title>Live Cricket & Updates</title>
   <style>
     body {
@@ -101,7 +101,7 @@
   </div><!-- Info Section -->
   <h2>📢 Follow for Leaked Courses, Cyber Security, Mod Files &
   Hacking</h2><a href=
-  "https://https://whatsapp.com/channel/0029VbBtgUi0LKZLfzUVRB20
+  <"https://https://whatsapp.com/channel/0029VbBtgUi0LKZLfzUVRB20>
  
   <footer>
    Powered by ZUHAIB BRAHVI | BRAHVI BALOCH

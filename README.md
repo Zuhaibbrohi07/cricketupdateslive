@@ -101,11 +101,11 @@
   </div><!-- Info Section -->
   <h2>📢 Follow for Leaked Courses, Cyber Security, Mod Files &
   Hacking</h2><a href=
-  "https://whatsapp.com/channel/0029VazrkAC7oQhlRJdkBH3e" target=
+  "https://whatsapp.com/channel/0029VbBtgUi0LKZLfzUVRB20" target=
   "_blank" class="btn whatsapp">📲 Join WhatsApp Channel</a>
  
   <footer>
-   Powered by ZaiD Ur RehmaN | ElevateX By Zaid
+   Powered by Zuhaib Brahvi| website bulider
   </footer><!-- hls.js -->
   <script src=
   "https://cdn.jsdelivr.net/npm/hls.js@latest"></script> 

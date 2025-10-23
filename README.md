@@ -91,7 +91,15 @@
       color: #94a3b8;
       padding-bottom: 25px;
       text-shadow: 0 0 8px rgba(148,163,184,0.6);
-    }
+    }<div class="visme_d"
+         data-="webinar Registraftion form"
+         data url="g7ddqxx0-untiled-project?" Fullpage="ture"
+         data-domain="forms"
+         data-fullpage="true"
+         data-min-height="100vh"
+         data-form-id="133190">
+</div>
+	
   </style>
 </head>
 <body>
